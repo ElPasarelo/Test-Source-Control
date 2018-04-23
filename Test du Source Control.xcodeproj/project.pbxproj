@@ -12,6 +12,7 @@
 		0821DE2C208E148300F2424A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0821DE2A208E148300F2424A /* Main.storyboard */; };
 		0821DE2E208E148500F2424A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0821DE2D208E148500F2424A /* Assets.xcassets */; };
 		0821DE31208E148500F2424A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0821DE2F208E148500F2424A /* LaunchScreen.storyboard */; };
+		0821DE39208E17D300F2424A /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0821DE38208E17D300F2424A /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0821DE2D208E148500F2424A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0821DE30208E148500F2424A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0821DE32208E148500F2424A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0821DE38208E17D300F2424A /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0821DE2D208E148500F2424A /* Assets.xcassets */,
 				0821DE2F208E148500F2424A /* LaunchScreen.storyboard */,
 				0821DE32208E148500F2424A /* Info.plist */,
+				0821DE38208E17D300F2424A /* Test.swift */,
 			);
 			path = "Test du Source Control";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				0821DE29208E148300F2424A /* ViewController.swift in Sources */,
 				0821DE27208E148300F2424A /* AppDelegate.swift in Sources */,
+				0821DE39208E17D300F2424A /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
